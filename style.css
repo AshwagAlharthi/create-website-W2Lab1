@@ -10,11 +10,12 @@
     position: relative;
     top: 1.5vh;
     left: 1vw;
+    font-size: 0.9rem;
 }
 
 .navbar {
     background-color: rgb(61, 57, 57);
-    height: 7vh;
+    height: 6.5vh;
 }
 
 .first-section {
@@ -42,15 +43,20 @@
     text-align: right;
 }
 
+.first-p p {
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
 .second-section {
     position: relative;
-    height: 60vh;
+    height: 57vh;
 }
 
 .first-boxes{
     position: absolute;
     top: 5vh;
-    left:14vw;
+    left:16vw;
     width: 32vw;
     height: 39vh;
 }
@@ -58,7 +64,7 @@
 .second-boxes{
     position: absolute;
     top: 5vh;
-    left:54vw;
+    left:52vw;
     width: 32vw;
     height: 39vh;
 }
@@ -68,7 +74,7 @@
     height: 12vh;
     border-radius: 10px;
     box-shadow: -3px 3px;
-    background-color: green;
+    background-color: rgb(98, 247, 163);
     position: absolute;
     top: 0;
     left:0;
@@ -90,7 +96,7 @@
     height: 12vh;
     border-radius: 10px;
     box-shadow: -3px 3px, 3px 3px;
-    background-color: pink;
+    background-color: rgb(254, 140, 157);
     position: absolute;
     top: 26vh;
     left:13vw;
@@ -101,7 +107,7 @@
     height: 12vh;
     border-radius: 10px;    
     box-shadow: 3px 3px;
-    background-color: rgb(155, 223, 110);
+    background-color: rgb(197, 247, 122);
     position: absolute;
     top: 13vh;
     right:6.5vw;
@@ -112,8 +118,16 @@
     height: 12vh;
     border-radius: 10px;
     box-shadow: 3px 3px;
-    background-color: orange;
+    background-color: rgb(242, 192, 100);
     position: absolute;
     top: 0;
     right: 0;
+}
+
+.footer {
+    background-color: rgb(61, 57, 57);
+    height: 10vh;
+    text-align: center;
+    color: white;
+    font-size: 0.86rem;
 }
