@@ -18,6 +18,26 @@
 }
 
 .first-section {
-    height: 50vh;
+    height: 47vh;
     background-color: rgb(220, 220, 220);
+}
+
+.img1 {
+    position: relative;
+    top: 2vh;
+    left:13vw;
+}
+
+.img2 {
+    position: absolute;
+    top: 15vh;
+    left:14vw;
+}
+
+.first-p {
+    position: relative;
+    bottom: 12vh;
+    left: 60vw;
+    width: 30vw;
+    text-align: right;
 }
