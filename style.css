@@ -42,13 +42,25 @@
     text-align: right;
 }
 
-.first-boxes{
+.second-section {
     position: relative;
+    height: 60vh;
+}
+
+.first-boxes{
+    position: absolute;
     top: 5vh;
     left:14vw;
     width: 32vw;
     height: 39vh;
-    background-color: gray;
+}
+
+.second-boxes{
+    position: absolute;
+    top: 5vh;
+    left:54vw;
+    width: 32vw;
+    height: 39vh;
 }
 
 .box1 {
