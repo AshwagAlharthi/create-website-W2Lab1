@@ -12,3 +12,12 @@
     left: 1vw;
 }
 
+.navbar {
+    background-color: rgb(61, 57, 57);
+    height: 7vh;
+}
+
+.first-section {
+    height: 50vh;
+    background-color: rgb(220, 220, 220);
+}
