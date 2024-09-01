@@ -1,0 +1,14 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.li-nav {
+    display: inline;
+    color: white;
+    padding-right: 2vw;
+    position: relative;
+    top: 1.5vh;
+    left: 1vw;
+}
+
